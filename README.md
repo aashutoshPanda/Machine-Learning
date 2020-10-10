@@ -3,4 +3,11 @@ Two house prediction models
 - Linear Regression Fine tuned with RandomSearchCV
 
 Classification of Handwritten Numbers (MNIST dataset)
-- with ANN
+- ANN
+
+Classification of images in 10 categories (CIFAR10 dataset)
+- CNN
+- CNN with transfer learning
+
+Classification of CAT - DOG images
+- CNN with data augmentation
